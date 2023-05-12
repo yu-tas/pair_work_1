@@ -14,6 +14,8 @@ header h1{
     color: mediumblue;
 }
 
+
+
 .header-back{
     height: 100px;
     width:100%;
@@ -26,15 +28,31 @@ header h1{
     float: right;
 }
 
+.top-menu{
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.oshare{
+    margin-top: 10px;
+    width: 990px;
+    height: 500px;
+}
 
 .top_menu li a{ 
 
     text-decoration: none;
     list-style: none;
-    
 }
 
 .contact-text{
     width:500px
 }
 
+.btn-wrapper{
+    text-align: center;
+}
+
+.btn-wrapper input{
+    width:40px
+}
